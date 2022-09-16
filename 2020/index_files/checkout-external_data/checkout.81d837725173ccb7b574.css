@@ -1,0 +1,61 @@
+.confirm-widget{margin:0 auto;max-width:350px;width:100%}
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-breakpoints-json/src/breakpoints.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_greys.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-iconography/src/iconography_sizes.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-settings/src/themes/day/colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/.google-pay-button-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:right;-ms-flex-pack:right;justify-content:right}.google-pay-button-wrapper button{height:44px}@media (max-width:792px){.google-pay-button,.google-pay-button button,.placeholder-button-wrapper{width:100%}.google-pay-button-wrapper{position:relative;top:18px}.modal-footer-cta-node .cart-summary{position:relative;top:2px}}.modal-footer-cta-node nav.eds-modal__button-bar{padding:14px 0}
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-breakpoints-json/src/breakpoints.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_greys.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-iconography/src/iconography_sizes.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-settings/src/themes/day/colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/@media (max-width:792px){.checkout-widget-container .eds-modal__notification{z-index:4}}.g-vert-full-height{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 100%;flex:1 100%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;height:100%;overflow:auto;width:100%}.g-vert-full-height__powered-by-eventbrite{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}.g-vert-full-height__language-selector{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.basic-dropdown-with-label .eds-field-styled--basic .eds-label__required-indicator{display:none}.eds-btn{white-space:nowrap}.u-inline-flex{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex}.u-position-absolute{position:absolute}.u-border-top{border-top:1px solid}.u-border-color-ui-200{border-color:#eeedf2;border-color:var(--eds-ui-200,#eeedf2)}
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-breakpoints-json/src/breakpoints.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-color/src/color_greys.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-iconography/src/iconography_sizes.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/
+/* !!! This is a generated file !!!
+* Please edit packages/eds/eds-settings/src/themes/day/colors.json instead
+* And run `yarn brite generate-scss-variables-from-json`
+*/#devtools-button{z-index:2000000000}
